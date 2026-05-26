@@ -1,0 +1,1 @@
+export default function TermsPage(){return <main className="section"><div className="container"><div className="sectionTitle"><span className="kicker">Terms</span><h2>Terms of Use</h2><p>Readings are for spiritual guidance and entertainment. They are not medical, legal, financial, or professional advice.</p></div></div></main>}

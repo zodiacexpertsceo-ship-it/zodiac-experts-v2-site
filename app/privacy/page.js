@@ -1,0 +1,1 @@
+export default function PrivacyPage(){return <main className="section"><div className="container"><div className="sectionTitle"><span className="kicker">Privacy</span><h2>Privacy Policy</h2><p>This website may collect basic form details to generate reading results. Do not enter sensitive private information.</p></div></div></main>}
